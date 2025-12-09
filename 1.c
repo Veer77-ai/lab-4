@@ -1,1 +1,3 @@
-fffff
+#include<stdio.h>
+main(){
+}
